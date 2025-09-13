@@ -47,4 +47,4 @@ It highlights **trends, seasonal patterns, moving averages, and product/region b
 - Revenue breakdowns across product categories and regions.  
 - Baseline **forecasts** for future sales.  
 
--
+
